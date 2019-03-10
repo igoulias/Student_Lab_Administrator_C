@@ -12,5 +12,5 @@ More info in hw4.pdf
 
 How to run:
 
-1. Compile <br\>
+1. Compile
 2. ./hw4 < testX.txt
