@@ -1,0 +1,44 @@
+Enter number of students: Enter maximum lab size: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Peter
+*Section 2, Monday 9:00*
+	Alice
+*Section 3, Monday 10:00*
+	Bob_Lee
+*Section 4, Monday 11:00*
+	Woodrow
+*Section 5, Monday 12:00*
+	Samantha
+*Section 6, Monday 13:00*
+	Anandavenkatakrishnan
+*Section 7, Monday 14:00*
+	Harry
+*Section 8, Monday 15:00*
+	John
+*Section 9, Monday 16:00*
+	Anna
+*Section 10, Monday 17:00*
+	Zehra
+*Section 11, Monday 18:00*
+	Esther
+*Section 12, Monday 19:00*
+	Ali
+*Section 13, Monday 20:00*
+	Mary_Ann
+*Section 14, Monday 21:00*
+	Bob
+*Section 15, Tuesday 8:00*
+	Aroon_Pichaironnarongsongkram
+*Section 16, Tuesday 9:00*
+	Ivan
+*Section 17, Tuesday 10:00*
+	Tatyana
+*Section 18, Tuesday 11:00*
+	Usman
+*Section 19, Tuesday 12:00*
+	Pierre
+*Section 20, Tuesday 13:00*
+	Jose
+========================

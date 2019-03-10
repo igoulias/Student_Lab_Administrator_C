@@ -1,0 +1,22 @@
+Enter number of students: Enter maximum lab size: 
+>>Created 2 sections<<
+Enter student name: 
+>>Adding student "Peter" in section 1<<
+Enter student name: 
+>>Adding student "Alice" in section 2<<
+Enter student name: 
+>>Adding student "Bob" in section 1<<
+Enter student name: 
+>>Adding student "Woodrow" in section 2<<
+Enter student name: 
+>>Adding student "Samantha" in section 1<<
+Enter student name: 
+>>Adding student "Harry" in section 2<<
+
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Samantha	Bob	Peter
+*Section 2, Monday 9:00*
+	Harry	Woodrow	Alice
+========================

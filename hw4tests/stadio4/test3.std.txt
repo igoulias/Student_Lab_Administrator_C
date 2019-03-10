@@ -1,0 +1,230 @@
+Enter number of students: Enter maximum lab size: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Tatyana	Aroon_Pichaironnarongsongkram	Harry	Peter
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Usman	Esther	Woodrow
+*Section 5, Monday 12:00*
+	Mahadev	Jose	Samantha
+========================
+Enter action: Enter first name: Enter second name: Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Woodrow	Tatyana	Harry	Peter
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Aroon_Pichaironnarongsongkram	Usman	Esther
+*Section 5, Monday 12:00*
+	Mahadev	Jose	Samantha
+========================
+Enter action: Invalid action. Valid actions are SWAP, REMOVE, PRINT, EXIT.
+Enter action: Invalid action. Valid actions are SWAP, REMOVE, PRINT, EXIT.
+Enter action: Invalid action. Valid actions are SWAP, REMOVE, PRINT, EXIT.
+Enter action: Enter first name: Enter second name: Students "Kim" and "Ilya" are in the same section. Swap canceled.
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Woodrow	Tatyana	Harry	Peter
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Aroon_Pichaironnarongsongkram	Usman	Esther
+*Section 5, Monday 12:00*
+	Mahadev	Jose	Samantha
+========================
+Enter action: Enter name: Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Woodrow	Tatyana	Harry	Peter
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Aroon_Pichaironnarongsongkram	Usman	Esther
+*Section 5, Monday 12:00*
+	Mahadev	Jose
+========================
+Enter action: Enter first name: Enter second name: Student "Samantha" not in lab. Swap canceled.
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Woodrow	Tatyana	Harry	Peter
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Usman	Aroon_Pichaironnarongsongkram	Esther
+*Section 5, Monday 12:00*
+	Mahadev	Jose
+========================
+Enter action: Enter first name: Enter second name: Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Mahadev	Woodrow	Tatyana	Harry
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Usman	Aroon_Pichaironnarongsongkram	Esther
+*Section 5, Monday 12:00*
+	Peter	Jose
+========================
+Enter action: Enter name: Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Mahadev	Woodrow	Tatyana	Harry
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Usman	Aroon_Pichaironnarongsongkram	Esther
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter name: Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Woodrow	Tatyana	Harry
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Usman	Aroon_Pichaironnarongsongkram	Esther
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter name: Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Woodrow	Tatyana	Harry
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Usman	Aroon_Pichaironnarongsongkram
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter name: Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Woodrow	Harry
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Usman	Aroon_Pichaironnarongsongkram
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter first name: Enter second name: Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Aroon_Pichaironnarongsongkram	Woodrow
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Harry	Usman
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter first name: Enter second name: Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Aroon_Pichaironnarongsongkram	Woodrow
+*Section 2, Monday 9:00*
+	Harry	Ilya	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Kim	Usman
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter first name: Enter second name: Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Ng	Aroon_Pichaironnarongsongkram
+*Section 2, Monday 9:00*
+	Harry	Ilya	John	Alice
+*Section 3, Monday 10:00*
+	Woodrow	Zehra	Bob
+*Section 4, Monday 11:00*
+	Kim	Usman
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter name: Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Ng	Aroon_Pichaironnarongsongkram
+*Section 2, Monday 9:00*
+	Harry	Ilya	John	Alice
+*Section 3, Monday 10:00*
+	Woodrow	Zehra	Bob
+*Section 4, Monday 11:00*
+	Kim
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter name: Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Ng	Aroon_Pichaironnarongsongkram
+*Section 2, Monday 9:00*
+	Harry	Ilya	John	Alice
+*Section 3, Monday 10:00*
+	Woodrow	Zehra	Bob
+*Section 4, Monday 11:00*
+
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter name: Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Ng	Aroon_Pichaironnarongsongkram
+*Section 2, Monday 9:00*
+	Harry	Ilya	John	Alice
+*Section 3, Monday 10:00*
+	Woodrow	Zehra	Bob
+*Section 4, Monday 11:00*
+
+*Section 5, Monday 12:00*
+
+========================
+Enter action: 

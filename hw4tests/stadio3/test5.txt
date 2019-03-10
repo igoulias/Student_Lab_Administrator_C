@@ -1,0 +1,7 @@
+6 1
+Peter Alice Bob Woodrow Zehra Jose
+HAHA
+SWAP  Bob Jose
+print
+PRINT
+EXIT

@@ -1,0 +1,71 @@
+Enter number of students: Enter maximum lab size: 
+>>Created 6 sections<<
+Enter student name: 
+>>Adding student "Peter" in section 1<<
+Enter student name: 
+>>Adding student "Alice" in section 2<<
+Enter student name: 
+>>Adding student "Bob" in section 3<<
+Enter student name: 
+>>Adding student "Woodrow" in section 4<<
+Enter student name: 
+>>Adding student "Zehra" in section 5<<
+Enter student name: 
+>>Adding student "Jose" in section 6<<
+
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Peter
+*Section 2, Monday 9:00*
+	Alice
+*Section 3, Monday 10:00*
+	Bob
+*Section 4, Monday 11:00*
+	Woodrow
+*Section 5, Monday 12:00*
+	Zehra
+*Section 6, Monday 13:00*
+	Jose
+========================
+Enter action: Invalid action. Valid actions are SWAP, REMOVE, PRINT, EXIT.
+Enter action: Enter first name: Enter second name: 
+>>Searching section 1...<<
+Peter...
+>>Searching section 2...<<
+Alice...
+>>Searching section 3...<<
+Bob...
+>>Searching section 1...<<
+Peter...
+>>Searching section 2...<<
+Alice...
+>>Searching section 3...<<
+
+>>Searching section 4...<<
+Woodrow...
+>>Searching section 5...<<
+Zehra...
+>>Searching section 6...<<
+Jose...
+>>Adding student "Bob" in section 6<<
+
+>>Adding student "Jose" in section 3<<
+Enter action: Invalid action. Valid actions are SWAP, REMOVE, PRINT, EXIT.
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Peter
+*Section 2, Monday 9:00*
+	Alice
+*Section 3, Monday 10:00*
+	Jose
+*Section 4, Monday 11:00*
+	Woodrow
+*Section 5, Monday 12:00*
+	Zehra
+*Section 6, Monday 13:00*
+	Bob
+========================
+Enter action: 

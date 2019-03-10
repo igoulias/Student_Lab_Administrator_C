@@ -1,0 +1,444 @@
+Enter number of students: Enter maximum lab size: 
+>>Created 5 sections<<
+Enter student name: 
+>>Adding student "Peter" in section 1<<
+Enter student name: 
+>>Adding student "Alice" in section 2<<
+Enter student name: 
+>>Adding student "Bob" in section 3<<
+Enter student name: 
+>>Adding student "Woodrow" in section 4<<
+Enter student name: 
+>>Adding student "Samantha" in section 5<<
+Enter student name: 
+>>Adding student "Harry" in section 1<<
+Enter student name: 
+>>Adding student "John" in section 2<<
+Enter student name: 
+>>Adding student "Zehra" in section 3<<
+Enter student name: 
+>>Adding student "Esther" in section 4<<
+Enter student name: 
+>>Adding student "Jose" in section 5<<
+Enter student name: 
+>>Adding student "Aroon_Pichaironnarongsongkram" in section 1<<
+Enter student name: 
+>>Adding student "Kim" in section 2<<
+Enter student name: 
+>>Adding student "Ng" in section 3<<
+Enter student name: 
+>>Adding student "Usman" in section 4<<
+Enter student name: 
+>>Adding student "Mahadev" in section 5<<
+Enter student name: 
+>>Adding student "Tatyana" in section 1<<
+Enter student name: 
+>>Adding student "Ilya" in section 2<<
+
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Tatyana	Aroon_Pichaironnarongsongkram	Harry	Peter
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Usman	Esther	Woodrow
+*Section 5, Monday 12:00*
+	Mahadev	Jose	Samantha
+========================
+Enter action: Enter first name: Enter second name: 
+>>Searching section 1...<<
+Tatyana...Aroon_Pichaironnarongsongkram...
+>>Searching section 1...<<
+Tatyana...Harry...Peter...
+>>Searching section 2...<<
+Ilya...Kim...John...Alice...
+>>Searching section 3...<<
+Ng...Zehra...Bob...
+>>Searching section 4...<<
+Usman...Esther...Woodrow...
+>>Adding student "Aroon_Pichaironnarongsongkram" in section 4<<
+
+>>Adding student "Woodrow" in section 1<<
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Woodrow	Tatyana	Harry	Peter
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Aroon_Pichaironnarongsongkram	Usman	Esther
+*Section 5, Monday 12:00*
+	Mahadev	Jose	Samantha
+========================
+Enter action: Invalid action. Valid actions are SWAP, REMOVE, PRINT, EXIT.
+Enter action: Invalid action. Valid actions are SWAP, REMOVE, PRINT, EXIT.
+Enter action: Invalid action. Valid actions are SWAP, REMOVE, PRINT, EXIT.
+Enter action: Enter first name: Enter second name: 
+>>Searching section 1...<<
+Woodrow...Tatyana...Harry...Peter...
+>>Searching section 2...<<
+Ilya...Kim...
+>>Searching section 1...<<
+Woodrow...Tatyana...Harry...Peter...
+>>Searching section 2...<<
+Ilya...Students "Kim" and "Ilya" are in the same section. Swap canceled.
+
+>>Adding student "Kim" in section 2<<
+
+>>Adding student "Ilya" in section 2<<
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Woodrow	Tatyana	Harry	Peter
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Aroon_Pichaironnarongsongkram	Usman	Esther
+*Section 5, Monday 12:00*
+	Mahadev	Jose	Samantha
+========================
+Enter action: Enter name: 
+>>Searching section 1...<<
+Woodrow...Tatyana...Harry...Peter...
+>>Searching section 2...<<
+Ilya...Kim...John...Alice...
+>>Searching section 3...<<
+Ng...Zehra...Bob...
+>>Searching section 4...<<
+Aroon_Pichaironnarongsongkram...Usman...Esther...
+>>Searching section 5...<<
+Mahadev...Jose...Samantha...
+>>Removed student "Samantha" from section 5<<
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Woodrow	Tatyana	Harry	Peter
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Aroon_Pichaironnarongsongkram	Usman	Esther
+*Section 5, Monday 12:00*
+	Mahadev	Jose
+========================
+Enter action: Enter first name: Enter second name: 
+>>Searching section 1...<<
+Woodrow...Tatyana...Harry...Peter...
+>>Searching section 2...<<
+Ilya...Kim...John...Alice...
+>>Searching section 3...<<
+Ng...Zehra...Bob...
+>>Searching section 4...<<
+Aroon_Pichaironnarongsongkram...Usman...Esther...
+>>Searching section 5...<<
+Mahadev...Jose...
+>>Searching section 1...<<
+Woodrow...Tatyana...Harry...Peter...
+>>Searching section 2...<<
+Ilya...Kim...John...Alice...
+>>Searching section 3...<<
+Ng...Zehra...Bob...
+>>Searching section 4...<<
+Aroon_Pichaironnarongsongkram...Usman...Student "Samantha" not in lab. Swap canceled.
+
+>>Adding student "Usman" in section 4<<
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Woodrow	Tatyana	Harry	Peter
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Usman	Aroon_Pichaironnarongsongkram	Esther
+*Section 5, Monday 12:00*
+	Mahadev	Jose
+========================
+Enter action: Enter first name: Enter second name: 
+>>Searching section 1...<<
+Woodrow...Tatyana...Harry...Peter...
+>>Searching section 2...<<
+Ilya...Kim...John...Alice...
+>>Searching section 3...<<
+Ng...Zehra...Bob...
+>>Searching section 4...<<
+Usman...Aroon_Pichaironnarongsongkram...Esther...
+>>Searching section 5...<<
+Mahadev...
+>>Searching section 1...<<
+Woodrow...Tatyana...Harry...Peter...
+>>Adding student "Mahadev" in section 1<<
+
+>>Adding student "Peter" in section 5<<
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Mahadev	Woodrow	Tatyana	Harry
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Usman	Aroon_Pichaironnarongsongkram	Esther
+*Section 5, Monday 12:00*
+	Peter	Jose
+========================
+Enter action: Enter name: 
+>>Searching section 1...<<
+Mahadev...Woodrow...Tatyana...Harry...
+>>Searching section 2...<<
+Ilya...Kim...John...Alice...
+>>Searching section 3...<<
+Ng...Zehra...Bob...
+>>Searching section 4...<<
+Usman...Aroon_Pichaironnarongsongkram...Esther...
+>>Searching section 5...<<
+Peter...Jose...
+>>Removed student "Jose" from section 5<<
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Mahadev	Woodrow	Tatyana	Harry
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Usman	Aroon_Pichaironnarongsongkram	Esther
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter name: 
+>>Searching section 1...<<
+Mahadev...
+>>Removed student "Mahadev" from section 1<<
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Woodrow	Tatyana	Harry
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Usman	Aroon_Pichaironnarongsongkram	Esther
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter name: 
+>>Searching section 1...<<
+Woodrow...Tatyana...Harry...
+>>Searching section 2...<<
+Ilya...Kim...John...Alice...
+>>Searching section 3...<<
+Ng...Zehra...Bob...
+>>Searching section 4...<<
+Usman...Aroon_Pichaironnarongsongkram...Esther...
+>>Removed student "Esther" from section 4<<
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Woodrow	Tatyana	Harry
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Usman	Aroon_Pichaironnarongsongkram
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter name: 
+>>Searching section 1...<<
+Woodrow...Tatyana...
+>>Removed student "Tatyana" from section 1<<
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Woodrow	Harry
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Usman	Aroon_Pichaironnarongsongkram
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter first name: Enter second name: 
+>>Searching section 1...<<
+Woodrow...Harry...
+>>Searching section 2...<<
+Ilya...Kim...John...Alice...
+>>Searching section 3...<<
+Ng...Zehra...Bob...
+>>Searching section 4...<<
+Usman...Aroon_Pichaironnarongsongkram...
+>>Searching section 1...<<
+Woodrow...Harry...
+>>Adding student "Aroon_Pichaironnarongsongkram" in section 1<<
+
+>>Adding student "Harry" in section 4<<
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Aroon_Pichaironnarongsongkram	Woodrow
+*Section 2, Monday 9:00*
+	Ilya	Kim	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Harry	Usman
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter first name: Enter second name: 
+>>Searching section 1...<<
+Aroon_Pichaironnarongsongkram...Woodrow...
+>>Searching section 2...<<
+Ilya...Kim...John...Alice...
+>>Searching section 3...<<
+Ng...Zehra...Bob...
+>>Searching section 4...<<
+Harry...
+>>Searching section 1...<<
+Aroon_Pichaironnarongsongkram...Woodrow...
+>>Searching section 2...<<
+Ilya...Kim...
+>>Adding student "Harry" in section 2<<
+
+>>Adding student "Kim" in section 4<<
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Aroon_Pichaironnarongsongkram	Woodrow
+*Section 2, Monday 9:00*
+	Harry	Ilya	John	Alice
+*Section 3, Monday 10:00*
+	Ng	Zehra	Bob
+*Section 4, Monday 11:00*
+	Kim	Usman
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter first name: Enter second name: 
+>>Searching section 1...<<
+Aroon_Pichaironnarongsongkram...Woodrow...
+>>Searching section 1...<<
+Aroon_Pichaironnarongsongkram...
+>>Searching section 2...<<
+Harry...Ilya...John...Alice...
+>>Searching section 3...<<
+Ng...
+>>Adding student "Woodrow" in section 3<<
+
+>>Adding student "Ng" in section 1<<
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Ng	Aroon_Pichaironnarongsongkram
+*Section 2, Monday 9:00*
+	Harry	Ilya	John	Alice
+*Section 3, Monday 10:00*
+	Woodrow	Zehra	Bob
+*Section 4, Monday 11:00*
+	Kim	Usman
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter name: 
+>>Searching section 1...<<
+Ng...Aroon_Pichaironnarongsongkram...
+>>Searching section 2...<<
+Harry...Ilya...John...Alice...
+>>Searching section 3...<<
+Woodrow...Zehra...Bob...
+>>Searching section 4...<<
+Kim...Usman...
+>>Removed student "Usman" from section 4<<
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Ng	Aroon_Pichaironnarongsongkram
+*Section 2, Monday 9:00*
+	Harry	Ilya	John	Alice
+*Section 3, Monday 10:00*
+	Woodrow	Zehra	Bob
+*Section 4, Monday 11:00*
+	Kim
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter name: 
+>>Searching section 1...<<
+Ng...Aroon_Pichaironnarongsongkram...
+>>Searching section 2...<<
+Harry...Ilya...John...Alice...
+>>Searching section 3...<<
+Woodrow...Zehra...Bob...
+>>Searching section 4...<<
+Kim...
+>>Removed student "Kim" from section 4<<
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Ng	Aroon_Pichaironnarongsongkram
+*Section 2, Monday 9:00*
+	Harry	Ilya	John	Alice
+*Section 3, Monday 10:00*
+	Woodrow	Zehra	Bob
+*Section 4, Monday 11:00*
+
+*Section 5, Monday 12:00*
+	Peter
+========================
+Enter action: Enter name: 
+>>Searching section 1...<<
+Ng...Aroon_Pichaironnarongsongkram...
+>>Searching section 2...<<
+Harry...Ilya...John...Alice...
+>>Searching section 3...<<
+Woodrow...Zehra...Bob...
+>>Searching section 4...<<
+
+>>Searching section 5...<<
+Peter...
+>>Removed student "Peter" from section 5<<
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Ng	Aroon_Pichaironnarongsongkram
+*Section 2, Monday 9:00*
+	Harry	Ilya	John	Alice
+*Section 3, Monday 10:00*
+	Woodrow	Zehra	Bob
+*Section 4, Monday 11:00*
+
+*Section 5, Monday 12:00*
+
+========================
+Enter action: 

@@ -1,0 +1,35 @@
+Enter number of students: Enter maximum lab size: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: Enter student name: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Peter
+*Section 2, Monday 9:00*
+	Alice
+*Section 3, Monday 10:00*
+	Bob
+*Section 4, Monday 11:00*
+	Woodrow
+*Section 5, Monday 12:00*
+	Zehra
+*Section 6, Monday 13:00*
+	Jose
+========================
+Enter action: Invalid action. Valid actions are SWAP, REMOVE, PRINT, EXIT.
+Enter action: Enter first name: Enter second name: Enter action: Invalid action. Valid actions are SWAP, REMOVE, PRINT, EXIT.
+Enter action: 
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Peter
+*Section 2, Monday 9:00*
+	Alice
+*Section 3, Monday 10:00*
+	Jose
+*Section 4, Monday 11:00*
+	Woodrow
+*Section 5, Monday 12:00*
+	Zehra
+*Section 6, Monday 13:00*
+	Bob
+========================
+Enter action: 

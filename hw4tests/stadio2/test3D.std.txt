@@ -1,0 +1,86 @@
+Enter number of students: Enter maximum lab size: 
+>>Created 20 sections<<
+Enter student name: 
+>>Adding student "Peter" in section 1<<
+Enter student name: 
+>>Adding student "Alice" in section 2<<
+Enter student name: 
+>>Adding student "Bob_Lee" in section 3<<
+Enter student name: 
+>>Adding student "Woodrow" in section 4<<
+Enter student name: 
+>>Adding student "Samantha" in section 5<<
+Enter student name: 
+>>Adding student "Anandavenkatakrishnan" in section 6<<
+Enter student name: 
+>>Adding student "Harry" in section 7<<
+Enter student name: 
+>>Adding student "John" in section 8<<
+Enter student name: 
+>>Adding student "Anna" in section 9<<
+Enter student name: 
+>>Adding student "Zehra" in section 10<<
+Enter student name: 
+>>Adding student "Esther" in section 11<<
+Enter student name: 
+>>Adding student "Ali" in section 12<<
+Enter student name: 
+>>Adding student "Mary_Ann" in section 13<<
+Enter student name: 
+>>Adding student "Bob" in section 14<<
+Enter student name: 
+>>Adding student "Aroon_Pichaironnarongsongkram" in section 15<<
+Enter student name: 
+>>Adding student "Ivan" in section 16<<
+Enter student name: 
+>>Adding student "Tatyana" in section 17<<
+Enter student name: 
+>>Adding student "Usman" in section 18<<
+Enter student name: 
+>>Adding student "Pierre" in section 19<<
+Enter student name: 
+>>Adding student "Jose" in section 20<<
+
+==========LABS==========
+
+*Section 1, Monday 8:00*
+	Peter
+*Section 2, Monday 9:00*
+	Alice
+*Section 3, Monday 10:00*
+	Bob_Lee
+*Section 4, Monday 11:00*
+	Woodrow
+*Section 5, Monday 12:00*
+	Samantha
+*Section 6, Monday 13:00*
+	Anandavenkatakrishnan
+*Section 7, Monday 14:00*
+	Harry
+*Section 8, Monday 15:00*
+	John
+*Section 9, Monday 16:00*
+	Anna
+*Section 10, Monday 17:00*
+	Zehra
+*Section 11, Monday 18:00*
+	Esther
+*Section 12, Monday 19:00*
+	Ali
+*Section 13, Monday 20:00*
+	Mary_Ann
+*Section 14, Monday 21:00*
+	Bob
+*Section 15, Tuesday 8:00*
+	Aroon_Pichaironnarongsongkram
+*Section 16, Tuesday 9:00*
+	Ivan
+*Section 17, Tuesday 10:00*
+	Tatyana
+*Section 18, Tuesday 11:00*
+	Usman
+*Section 19, Tuesday 12:00*
+	Pierre
+*Section 20, Tuesday 13:00*
+	Jose
+========================
